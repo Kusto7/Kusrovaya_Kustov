@@ -1,0 +1,15 @@
+  [{
+    "id": 902831954,
+    "state": "EXECUTED",
+    "date": "2018-04-22T17:01:46.885252",
+    "operationAmount": {
+      "amount": "84732.61",
+      "currency": {
+        "name": "руб.",
+        "code": "RUB"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Visa Platinum 3530191547567121",
+    "to": "Счет 46878338893256147528"
+  }]

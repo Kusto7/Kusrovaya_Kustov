@@ -1,8 +1,8 @@
 import json
 
 
-def load_data():
-    with open("operations.json", 'r', encoding="utf-8") as file:
+def load_data(path):
+    with open(path, 'r', encoding="utf-8") as file:
         all_operations = json.load(file)
     return all_operations
 
